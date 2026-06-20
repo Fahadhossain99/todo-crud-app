@@ -163,7 +163,7 @@ Todo Menu
 ---
 ## 🎥 Project Demo Video
 
-📹 [Watch Project Demo Video](https://drive.google.com/file/d/1wocWzYsZ1U1yX-5YWMQJuKmPWnW8k6E7/view?usp=sharing)
+📹 [Watch Project Demo Video](https://drive.google.com/file/d/1WjzPljDUb3QbQkQBgHYwpFQCTu-fj8wb/view?usp=sharing)
 
 ## 📸 Sample Features Demonstrated
 
